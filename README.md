@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ttps://media1.tenor.com/m/nZJm9Uw_WAsAAAAC/%E3%81%82.gif" alt="Anime Tyan" width="300"/>
+</p>
+
 # 👋 Hi, I'm **D3f4ulting!**
 
 **Frontend Developer | React Enthusiast**
