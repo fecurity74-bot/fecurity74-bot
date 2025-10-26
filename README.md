@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/nZJm9Uw_WAsAAAAC/%E3%81%82.gif" alt="Anime Tyan" width="600"/>
+  <img src="https://media1.tenor.com/m/xww7ejQabFgAAAAd/alya-chrismas.gif" alt="Anime Tyan" width="1200"/>
 </p>
 
 # 👋 Hi, I'm **D3f4ulting!**
